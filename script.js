@@ -4,4 +4,4 @@ console.log("hi how u doing")
 
 console.log("have u eaten something ?")
 
-console.log("take some rest the get back to work")
+console.log("take some rest then get back to work")
